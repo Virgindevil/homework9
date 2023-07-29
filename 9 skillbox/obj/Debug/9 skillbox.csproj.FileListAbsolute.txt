@@ -1,0 +1,16 @@
+G:\visual_studio_Code\9\9 skillbox\9 skillbox\bin\Debug\9 skillbox.exe.config
+G:\visual_studio_Code\9\9 skillbox\9 skillbox\bin\Debug\9 skillbox.exe
+G:\visual_studio_Code\9\9 skillbox\9 skillbox\bin\Debug\9 skillbox.pdb
+G:\visual_studio_Code\9\9 skillbox\9 skillbox\obj\Debug\9 skillbox.csproj.AssemblyReference.cache
+G:\visual_studio_Code\9\9 skillbox\9 skillbox\obj\Debug\9 skillbox.csproj.SuggestedBindingRedirects.cache
+G:\visual_studio_Code\9\9 skillbox\9 skillbox\obj\Debug\MainWindow.g.cs
+G:\visual_studio_Code\9\9 skillbox\9 skillbox\obj\Debug\App.g.cs
+G:\visual_studio_Code\9\9 skillbox\9 skillbox\obj\Debug\9 skillbox_MarkupCompile.cache
+G:\visual_studio_Code\9\9 skillbox\9 skillbox\obj\Debug\9 skillbox_MarkupCompile.lref
+G:\visual_studio_Code\9\9 skillbox\9 skillbox\obj\Debug\MainWindow.baml
+G:\visual_studio_Code\9\9 skillbox\9 skillbox\obj\Debug\9 skillbox.g.resources
+G:\visual_studio_Code\9\9 skillbox\9 skillbox\obj\Debug\_9_skillbox.Properties.Resources.resources
+G:\visual_studio_Code\9\9 skillbox\9 skillbox\obj\Debug\9 skillbox.csproj.GenerateResource.cache
+G:\visual_studio_Code\9\9 skillbox\9 skillbox\obj\Debug\9 skillbox.csproj.CoreCompileInputs.cache
+G:\visual_studio_Code\9\9 skillbox\9 skillbox\obj\Debug\9 skillbox.exe
+G:\visual_studio_Code\9\9 skillbox\9 skillbox\obj\Debug\9 skillbox.pdb
